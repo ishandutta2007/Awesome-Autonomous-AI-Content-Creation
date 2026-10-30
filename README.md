@@ -76,10 +76,10 @@ The following table provides verified pricing, free tier/trial boundaries, and c
 
 Curated open-source projects for self-hosted autonomous content generation, deep research, SEO optimization, and multi-agent workflows. 
 
-> *Sorted descending by repository star count:*
+> *Sorted descending by repository Stars_Count:*
 
 ### 1. **[STORM (Stanford University)](https://github.com/stanford-oval/storm)**
-[![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers)
 - **License**: MIT
 - **Tech Stack**: Python, DSPy, LiteLLM, Vector Retrieval
 - **Core Features**: Knowledge curation system developed by Stanford OVAL. Discovers perspective-driven interview questions, executes multi-round deep web research, aggregates cited evidence, and autonomously drafts comprehensive Wikipedia-like long-form articles.
@@ -88,7 +88,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 2. **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)**
-[![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)
 - **License**: Apache-2.0
 - **Tech Stack**: Python, FastAPI, Docker, Tavily/DuckDuckGo
 - **Core Features**: Autonomous agent that conducts deep collaborative research on any topic or local documents. Coordinates parallel web scraping, filters noisy data, aggregates sources, and generates detailed, structured reports with markdown formatting.
@@ -97,7 +97,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 3. **[ChatGPT Assistant AutoBlogger](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger)**
-[![GitHub stars](https://img.shields.io/github/stars/IncomeStreamSurfer/chatgptassistantautoblogger?style=social&color=white)](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/IncomeStreamSurfer/chatgptassistantautoblogger?style=social&color=white)](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger/stargazers)
 - **License**: Open Source
 - **Tech Stack**: Python, OpenAI Assistants API, CMS Webhooks
 - **Core Features**: Autonomous autoblogging platform that leverages OpenAI's Assistants API to research keywords, generate SEO-targeted articles with customized prompt instructions, and auto-publish content directly to e-commerce and CMS stores.
@@ -106,7 +106,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 4. **[AI Blog Writer (Skolo Online)](https://github.com/skolo-online/ai-blog-writer-openai)**
-[![GitHub stars](https://img.shields.io/github/stars/skolo-online/ai-blog-writer-openai?style=social&color=white)](https://github.com/skolo-online/ai-blog-writer-openai/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/skolo-online/ai-blog-writer-openai?style=social&color=white)](https://github.com/skolo-online/ai-blog-writer-openai/stargazers)
 - **License**: MIT
 - **Tech Stack**: Python, Streamlit, OpenAI API
 - **Core Features**: Interactive blog generator that automates title generation, outline development, section-by-section drafting, and export to markdown/HTML.
@@ -115,7 +115,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 5. **[Ecrivai](https://github.com/ruankie/ecrivai)**
-[![GitHub stars](https://img.shields.io/github/stars/ruankie/ecrivai?style=social&color=white)](https://github.com/ruankie/ecrivai/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ruankie/ecrivai?style=social&color=white)](https://github.com/ruankie/ecrivai/stargazers)
 - **License**: MIT
 - **Tech Stack**: Python, LangChain, GitHub Actions, Pelican/Static CMS
 - **Core Features**: Fully autonomous AI blog engine. Uses LangChain to autonomously brainstorm trending topic ideas, write comprehensive markdown articles, format metadata, and commit the finished posts via automated Git CI/CD pipelines.
@@ -124,7 +124,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 6. **[SEOArticlegenAI](https://github.com/JamesEBall/SEOArticlegenAI)**
-[![GitHub stars](https://img.shields.io/github/stars/JamesEBall/SEOArticlegenAI?style=social&color=white)](https://github.com/JamesEBall/SEOArticlegenAI/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/JamesEBall/SEOArticlegenAI?style=social&color=white)](https://github.com/JamesEBall/SEOArticlegenAI/stargazers)
 - **License**: Open Source
 - **Tech Stack**: Python, OpenAI API
 - **Core Features**: SEO-focused article generator with heading hierarchy management (H1-H4), keyword density optimization, meta description generator, and structured schema outputs.
@@ -133,7 +133,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 7. **[OpenAdKit](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool)**
-[![GitHub stars](https://img.shields.io/github/stars/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool?style=social&color=white)](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool?style=social&color=white)](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool/stargazers)
 - **License**: MIT
 - **Tech Stack**: Next.js, TypeScript, IndexedDB (100% browser-local)
 - **Core Features**: Open-source Jasper/Anyword alternative with 18 AI generators and 11 optimizers for Google Ads, Meta, TikTok, LinkedIn, and Email. Features a Brand Brain URL crawler, CTR Creative Scorer, and 10-Minute Launch Wizard supporting 9 BYOK providers.
@@ -142,7 +142,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 8. **[ai-content-crew](https://github.com/tanishra/ai-content-crew)**
-[![GitHub stars](https://img.shields.io/github/stars/tanishra/ai-content-crew?style=social&color=white)](https://github.com/tanishra/ai-content-crew/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/tanishra/ai-content-crew?style=social&color=white)](https://github.com/tanishra/ai-content-crew/stargazers)
 - **License**: Open Source
 - **Tech Stack**: Python (CrewAI), FastAPI, OpenAI, Serper
 - **Core Features**: Multi-agent collaborative content creation pipeline with a production REST API. Specializes in autonomous coordination between researcher, writer, and SEO optimizer agents to produce full reports and blog articles in 1–2 minutes.
@@ -151,7 +151,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 9. **[SEOClaw](https://github.com/kian9375/seoclaw-by-kb-software)**
-[![GitHub stars](https://img.shields.io/github/stars/kian9375/seoclaw-by-kb-software?style=social&color=white)](https://github.com/kian9375/seoclaw-by-kb-software/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/kian9375/seoclaw-by-kb-software?style=social&color=white)](https://github.com/kian9375/seoclaw-by-kb-software/stargazers)
 - **License**: MIT
 - **Tech Stack**: Node.js (CLI / npm)
 - **Core Features**: Scriptable 100-point SEO auditing and content brief generation CLI. Analyzes competitor keyword gaps, generates optimized title/meta tags, and outputs semantic blog outlines compatible with OpenAI, Claude, DeepSeek, or local Ollama instances.
@@ -160,7 +160,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 10. **[Content Generation Platform](https://github.com/alessiopagliarulo/content-generation-platform)**
-[![GitHub stars](https://img.shields.io/github/stars/alessiopagliarulo/content-generation-platform?style=social&color=white)](https://github.com/alessiopagliarulo/content-generation-platform/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/alessiopagliarulo/content-generation-platform?style=social&color=white)](https://github.com/alessiopagliarulo/content-generation-platform/stargazers)
 - **License**: MIT
 - **Tech Stack**: Next.js, Prisma, Node.js, Scheduled Jobs
 - **Core Features**: Autonomous content-generation pipeline featuring a Next.js/Prisma control plane driving multi-agent production with scheduled jobs, CI quality gates, and model token cost accounting.
@@ -169,7 +169,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 11. **[Nest](https://github.com/arjav1181/nest)**
-[![GitHub stars](https://img.shields.io/github/stars/arjav1181/nest?style=social&color=white)](https://github.com/arjav1181/nest/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/arjav1181/nest?style=social&color=white)](https://github.com/arjav1181/nest/stargazers)
 - **License**: MIT
 - **Tech Stack**: Next.js, FastAPI, Python, Bun
 - **Core Features**: Colony of always-on autonomous AI agents for a one-person media business. Features persistent researcher, writer, editor, clipper, and publisher agents running 24/7 with a unified Smart Approvals Inbox for risky actions.
@@ -178,7 +178,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 12. **[AutoBlogs](https://github.com/PyUtility/autoblogs)**
-[![GitHub stars](https://img.shields.io/github/stars/PyUtility/autoblogs?style=social&color=white)](https://github.com/PyUtility/autoblogs/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/PyUtility/autoblogs?style=social&color=white)](https://github.com/PyUtility/autoblogs/stargazers)
 - **License**: MIT (PyPI: `autoblogs`)
 - **Tech Stack**: Python, Streamlit, Multi-LLM SDKs
 - **Core Features**: Flexible human-in-the-loop content generation dashboard supporting both open-source and proprietary LLMs (OpenAI, Anthropic, NVIDIA-NIM, local Ollama). Includes inline draft editing, live markdown preview, and keyword optimization.
@@ -187,7 +187,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 13. **[ContentOS Agent Lite](https://github.com/humanswith-ai/contentos-agent-lite)**
-[![GitHub stars](https://img.shields.io/github/stars/humanswith-ai/contentos-agent-lite?style=social&color=white)](https://github.com/humanswith-ai/contentos-agent-lite/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/humanswith-ai/contentos-agent-lite?style=social&color=white)](https://github.com/humanswith-ai/contentos-agent-lite/stargazers)
 - **License**: Open Source
 - **Tech Stack**: Python, Markdown agent prompts (runs in Claude Code / Cursor / Codex)
 - **Core Features**: Rigorous "process, not prompt" content architecture enforcing 8 deterministic quality gates (Context → Sources → Brief → Draft → Checks → Uplift → Publish). Hard stops prevent unverified drafting; scores content across 8 quality axes locally with zero required API keys.
@@ -196,7 +196,7 @@ Curated open-source projects for self-hosted autonomous content generation, deep
 ---
 
 ### 14. **[GEOFlow](https://github.com/feek13/GEOFlow)**
-[![GitHub stars](https://img.shields.io/github/stars/feek13/GEOFlow?style=social&color=white)](https://github.com/feek13/GEOFlow/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/feek13/GEOFlow?style=social&color=white)](https://github.com/feek13/GEOFlow/stargazers)
 - **License**: Open Source
 - **Tech Stack**: PHP, PostgreSQL, Docker Compose
 - **Core Features**: Complete content operations factory with an admin panel to manage prompt/material libraries, automated cron scheduling, multi-provider inference (MiniMax, OpenAI, DeepSeek, Zhipu GLM), and a formal Draft → Review → Publish pipeline.
@@ -212,8 +212,8 @@ Contributions are welcome! Please follow these steps to add or update projects:
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-new-agent-tool`).
 3. 📝 **Edit `README.md`**:
    - Provide the project name, official URL or repository link.
-   - For open-source repos, include the star badge:  
-     `[![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`
+   - For open-source repos, include the Stars_Badge:  
+     `[![GitHub_Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`
    - Include License, Tech Stack, Key Features, and Target Use Case.
    - For SaaS tools, specify exact starting tier pricing and explicit free trial/tier limits.
 4. 🚀 **Submit a Pull Request** with a brief summary of the project.
