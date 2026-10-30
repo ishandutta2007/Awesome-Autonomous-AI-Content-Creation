@@ -32,79 +32,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
 
 
+## Sector Overview & Market Dynamics
+
+The AI content creation market is valued at approximately **$26 billion in 2026** and projected to surpass **$80+ billion by 2030** (growing at a ~32% CAGR). The industry exhibits a bifurcated market structure: it is **heavily concentrated** at the foundational model and cloud platform layer where tech giants dominate compute and base LLMs, but **moderately to highly fragmented** at the application layer where specialized point solutions and autonomous workflows compete across distinct vertical niches.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Jasper AI](https://www.jasper.ai/)**
-
-  **Enterprise AI marketing platform** with brand voice controls, campaign generation, and workflow automation. **Pricing**: Quote-only; tiered by seats and features. **Free tier**: Trial available. **Best for**: marketing teams wanting brand-consistent content at scale with governance controls.
-
-
-
-- **[Copy.ai](https://www.copy.ai/)**
-
-  **AI copywriting and workflow platform** with templates, brand voice, and automation. **Pricing**: Free tier; paid plans per user. **Free tier**: Yes, limited credits. **Best for**: teams wanting a general-purpose AI writer with workflow capabilities.
-
-
-
-- **[Writer](https://writer.com/)**
-
-  **Enterprise AI writing platform** with brand governance, style guides, and knowledge graph. **Pricing**: Quote-only. **Free tier**: Trial available. **Best for**: enterprises needing strict brand compliance and factual accuracy controls.
-
-
-
-- **[Anyword](https://anyword.com/)**
-
-  **AI copywriting with predictive performance scoring** and audience targeting. **Pricing**: Quote-only; tiered by features. **Free tier**: Trial available. **Best for**: marketers wanting data-driven copy optimization with performance prediction.
-
-
-
-- **[Writesonic](https://writesonic.com/)**
-
-  **AI content generation** with SEO optimization and article writer. **Pricing**: Free tier; paid plans by credits. **Free tier**: Yes, limited. **Best for**: SMBs wanting affordable AI content generation with SEO features.
-
-
-
-- **[Frase](https://www.frase.io/)**
-
-  **AI content optimization** with SERP research and content briefs. **Pricing**: Quote-only; tiered by articles. **Free tier**: Trial available. **Best for**: content teams wanting research-driven briefs and optimization.
-
-
-
-- **[Surfer SEO](https://surferseo.com/)**
-
-  **Content optimization platform** with real-time scoring and SERP analysis. **Pricing**: Quote-only; tiered by features. **Free tier**: Trial available. **Best for**: SEO-focused teams wanting data-backed content optimization.
-
-
-
-- **[MarketMuse](https://www.marketmuse.com/)**
-
-  **AI content planning and optimization** with topical authority mapping. **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises wanting strategic content planning based on topic modeling.
-
-
-
-- **[Content at Scale](https://contentatscale.ai/)**
-
-  **AI long-form content generation** with SEO optimization and human editing. **Pricing**: Quote-only; tiered by words. **Free tier**: Trial available. **Best for**: teams wanting high-volume long-form content with minimal manual writing.
-
-
-
-- **[HubSpot AI Content Agent](https://www.hubspot.com/)**
-
-  **AI content generation** within HubSpot ecosystem. **Pricing**: Included with HubSpot paid tiers. **Free tier**: Limited. **Best for**: HubSpot users wanting native AI content tools within their CRM and marketing platform.
-
-
+| Company / Product | Size (Valuation / Revenue) | Starting Price (Paid Tier) | Free Tier Limits / Trial Limits | Description & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[HubSpot AI Content Agent](https://www.hubspot.com/)** | ~$13.5B Market Cap (~$3.1B+ ARR) | $15/seat/month (Marketing Hub Starter) | No dedicated free agent tier (0 credits/mo on Free); Paid plans receive 500+ credits/mo (Content Agent consumes 1,000 credits/post) | **AI content generation within the HubSpot ecosystem.** Best for marketing teams seeking native AI content and CRM integration. |
+| **[Writer](https://writer.com/)** | $1.9B Valuation (~$47M–$84M ARR) | $29/user/month (billed annually) or $39/mo | 14-day free trial (no credit card required; includes access to Starter features and up to 5 playbooks) | **Enterprise AI writing & agent platform** with style guides, governance, and Knowledge Graph. Best for enterprises demanding brand compliance and factual accuracy. |
+| **[Jasper AI](https://www.jasper.ai/)** | $1.5B Valuation (~$88M+ ARR) | $59/seat/month (billed annually) or $69/mo | 7-day free trial (credit card required; full access to Pro plan features, auto-renews unless canceled) | **Enterprise AI marketing platform** featuring brand voice controls, campaign generation, and multi-agent workflows. Best for teams needing brand-consistent content at scale. |
+| **[Copy.ai](https://www.copy.ai/)** | ~$300M–$400M Valuation (~$25M–$35M ARR) | $24/month (billed annually at $288) or $29/mo (Chat Plan) | Legacy free plan capped at 2,000 words/mo (1 seat); new self-serve accounts offer limited free chat trials before upgrading | **AI copywriting & GTM workflow platform** with cross-LLM support and automated workflow credits. Best for RevOps and marketing teams automating repetitive pipeline tasks. |
+| **[Writesonic](https://writesonic.com/)** | ~$200M–$250M Valuation (~$8M–$34M ARR) | $79/month (billed annually) or $99/mo (Starter Plan) | Free-forever plan: 1 full AI article/month, 1 site audit (up to 100 pages), 3 AI chat generations/month (GPT-4o mini/Claude Haiku, 1 user) | **AI content & SEO generation platform** with Article Writer and SERP analytics. Best for SMBs and content creators wanting rapid SEO-optimized drafting. |
+| **[Anyword](https://anyword.com/)** | $84M Valuation (~$10M–$38M ARR) | $39/month (billed annually) or $49/mo (Starter Plan) | 7-day free trial (credit card required; includes 1 user seat, 1 brand voice, and test generation credits) | **AI copywriting with predictive performance scoring** and audience targeting. Best for performance marketers prioritizing data-driven CTR improvements. |
+| **[Surfer SEO](https://surferseo.com/)** | ~$48M Valuation (Acquired by Positive; ~$15M ARR) | $49/month (billed annually) or $59/mo (Discovery Plan) | 7-day free trial (credit card required; grants full access to Pro plan features) | **SERP and content optimization platform** with real-time content scoring. Best for SEO professionals and content teams seeking data-backed on-page optimization. |
+| **[MarketMuse](https://www.marketmuse.com/)** | Acquired by Siteimprove (~$8M–$9M ARR) | ~$99–$149/month (entry paid tiers) | Free-forever plan: 10 queries per month, 1 user seat (includes Topic Navigator and SERP Heatmap; no Content Briefs) | **AI content planning and topic modeling platform** with authority gap analysis. Best for content strategists building topical domain authority. |
+| **[Content at Scale](https://contentatscale.ai/)** (BrandWell) | ~$2M ARR (Est. bootstrap scale) | $249/month (Essentials Plan) | 7-day trial ($15–$39.99 entry or credit trial; includes 1 full long-form post credit between 1,000–7,000 words) | **AI long-form content generation** with humanlike drafting and built-in SEO/AI detection bypass. Best for publishers needing bulk long-form articles. |
+| **[Frase](https://www.frase.io/)** | Acquired by Copysmith (~$1.8M ARR) | $39/month (billed annually) or $49/mo (Starter Plan) | 7-day free trial (no credit card required; access to Professional-tier features with test briefing caps) | **AI content optimization and brief builder** with SERP scraping and visibility monitoring. Best for solo writers and agencies streamlining research workflows. |
 
 ## Open-Source GitHub Projects
 
